@@ -103,7 +103,11 @@ Timeline · Cert · Language Pills
   text-align: center;
   transition: border-color var(--transition), transform var(--transition);
 }
-
+.card-link {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+  }
 .stat-card:hover {
   border-color: rgba(0,148,90,0.4);
   transform: translateY(-3px);
