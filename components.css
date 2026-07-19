@@ -68,8 +68,8 @@ Timeline · Cert · Language Pills
   vertical-align: bottom;
   width: 0;
   animation:
-    typing 2.5s steps(14, end) infinite alternate,
-    blink 0.7s step-end infinite;
+    typing 2.8s steps(14, end) infinite alternate,
+    blink 0.8s step-end infinite;
 }
 
 /* ── ABOUT GRID ──────────────────────────────── */
